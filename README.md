@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="DevRadar" title="#DevRadar" src=".github/devradar.svg" width="350px" />
+    <img alt="DevRadar" title="#DevRadar" src=".github/devradar.svg" width="300px" />
 </h1>
 
 <h2 align="center">
@@ -31,3 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias.
+
+
+
+
