@@ -1,15 +1,15 @@
 <h1 align="center">
-    <img alt="DevRadar" title="#DevRadar" src=".github/devradar.svg" width="250px" />
+    <img alt="DevRadar" title="#DevRadar" src=".github/devradar.svg" width="350px" />
 </h1>
 
-<h4 align="center">
+<h2 align="center">
   🚀 Semana OmniStack 10.0
-</h4>
+</h2>
 <p align="center">
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
