@@ -1,0 +1,8 @@
+        // React 
+
+ Componente: Bloco isolado de HTML, CSS e JS, o qual não interfere no restante da aplicação.
+ É uma função que retorna algum conteúdo HTML/ CSS / JS.
+
+ Propriedade: Informações que um componente PAI passa para o componente FILHO
+
+ Estado: Informações mantidas pelo componente (lembrar: imutabilidade)
