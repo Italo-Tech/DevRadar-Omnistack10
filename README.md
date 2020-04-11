@@ -15,8 +15,8 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend-Web" src=".github/mobile.png" width="50%">
-  <img alt="Frontend-Mobile" src=".github/web.png" width="50%">
+  <img alt="Frontend-Web" src=".github/mobile.png" width="80%">
+  <img alt="Frontend-Mobile" src=".github/web.png" width="20%">
 </p>
 
 ## :rocket: Tecnologias
