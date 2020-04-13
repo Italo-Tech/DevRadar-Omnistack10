@@ -17,7 +17,7 @@
 <p align="center">
   <img alt="Frontend-Web" src=".github/mobile1.jfif" width="40%">
   <img alt="Frontend-Mobile" src=".github/mobile2.jfif" width="30%">
-    <img alt="Frontend-Mobile" src=".github/web.jfif" width="30%">
+    <img alt="Frontend-Mobile" src=".github/web.jfif" width="80%">
 </p>
 
 ## 👨🏼‍💻 Desenvolvedor 
