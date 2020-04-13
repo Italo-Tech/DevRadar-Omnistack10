@@ -15,8 +15,9 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend-Web" src=".github/mobile.png" width="30%">
-  <img alt="Frontend-Mobile" src=".github/web.png" width="80%">
+  <img alt="Frontend-Web" src=".github/mobile1.png" width="40%">
+  <img alt="Frontend-Mobile" src=".github/mobile2.png" width="30%">
+    <img alt="Frontend-Mobile" src=".github/web.png" width="30%">
 </p>
 
 ## 👨🏼‍💻 Desenvolvedor 
