@@ -19,6 +19,10 @@
   <img alt="Frontend-Mobile" src=".github/web.png" width="80%">
 </p>
 
+## 👨🏼‍💻 Desenvolvedor 
+
+- [Ítalo Henrique](https://www.linkedin.com/in/italo-tech/)
+
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -32,6 +36,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias.
 
+## Passos para utilizar 
+1. Faça um clone desse repositório;
+2. Entre na pasta `cd devradar`;
 
+## Backend
+1. Entre na pasta `cd backend`;
+2. Rode `yarn` para instalar as dependências;
+3. Rode `yarn dev` para iniciar o servidor.
 
-
+## Frontend 
+1. Entre na pasta frontend
+2. Rode `yarn` para instalar as dependências;
+3. Rode `yarn start` para iniciar a aplicação;
