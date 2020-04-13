@@ -66,7 +66,7 @@ module.exports = {
         try {
             await Dev.findOneAndDelete({ _id: request.params.id })
 
-            return res.json({ message: 'User successfully deleted' });
+            return response.json({ message: 'User successfully deleted' });
         } catch (err) {
             return response.status(400).json({ error: 'Error deleting project' })
         }

@@ -12,7 +12,7 @@ align-items: center;
 }
 
 li.dev-item header img{
-width: 54px;
+width: 54px; 
 height: 54px;
 border-radius: 50%;
 }
@@ -47,4 +47,8 @@ li.dev-item a{
 
 li.dev-item a:hover{
     color: #5a2ea6;
+}
+
+.button-delete {
+    margin-left: 320px; 
 }
